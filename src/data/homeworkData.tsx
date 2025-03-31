@@ -73,7 +73,16 @@ const originalHomeworkData: HomeworkItem[] = [
     { id: 62, class: "Computer Programming II", assignment: "Pre-Lecture Recording Week 7", dueDate: "05/12/2025 09:00 AM", status: "Not Started", points: 0 },
     { id: 63, class: "Computer Programming II", assignment: "Pre-Lecture Recording Week 8", dueDate: "05/19/2025 09:00 AM", status: "Not Started", points: 0 },
     { id: 64, class: "Computer Programming II", assignment: "Pre-Lecture Recording Week 9", dueDate: "05/26/2025 09:00 AM", status: "Not Started", points: 0 },
-    { id: 65, class: "Computer Programming II", assignment: "Pre-Lecture Recording Week 10", dueDate: "06/02/2025 09:00 AM", status: "Not Started", points: 0 }
+    { id: 65, class: "Computer Programming II", assignment: "Pre-Lecture Recording Week 10", dueDate: "06/02/2025 09:00 AM", status: "Not Started", points: 0 },
+    { id: 66, class: "English 103", assignment: "Rhetorical Analysis of A Writing Experience", dueDate: "04/20/2025 11:59 PM", status: "Not Started", points: 10 },
+    { id: 67, class: "English 103", assignment: "Proposal", dueDate: "05/18/2025 11:59 PM", status: "Not Started", points: 15 },
+    { id: 68, class: "English 103", assignment: "Presentation and Workshop", dueDate: "05/22/2025 11:59 PM", status: "Not Started", points: 10 },
+    { id: 69, class: "English 103", assignment: "Final Project", dueDate: "06/07/2025 11:59 PM", status: "Not Started", points: 10 },
+    { id: 70, class: "English 103", assignment: "Final Reflectiion", dueDate: "06/08/2025 11:59 PM", status: "Not Started", points: 10 },
+    { id: 71, class: "Biology", assignment: "Video Lecture: Chapter 32 Part 1", dueDate: "04/02/2025 11:59 PM", status: "Not Started", points: 10 },
+    { id: 72, class: "Biology", assignment: "Video Lecture: Chapter 32 Part 2", dueDate: "04/02/2025 11:59 PM", status: "Not Started", points: 10 },
+    { id: 73, class: "Biology", assignment: "Week 1 HW: Homeostasis and Endocrine System ", dueDate: "04/07/2025 11:59 PM", status: "Not Started", points: 10 },
+    { id: 74, class: "Biology", assignment: "Homeostasis and Endocrine Quiz 1 ", dueDate: "04/07/2025 11:59 PM", status: "Not Started", points: 10, testsQuizzes: true },
 
 ]
 
