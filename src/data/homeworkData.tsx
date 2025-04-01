@@ -65,7 +65,7 @@ const originalHomeworkData: HomeworkItem[] = [
     { id: 54, class: "Computer Programming II", assignment: "Week 10 Reading Quiz", dueDate: "06/01/2025 11:59 PM", status: "Not Started", points: 10 },
     { id: 55, class: "Computer Programming II", assignment: "Midterm", dueDate: "05/05/2025 9:00 AM", status: "Not Started", points: 25, testsQuizzes: true },
     { id: 56, class: "Computer Programming II", assignment: "Week 2 Reading Quiz", dueDate: "04/06/2025 11:59 PM", status: "Not Started", points: 10 },
-    { id: 86, class: "Computer Programming II", assignment: "Pre-Lecture Recording Week 1", dueDate: "03/31/2025 09:00 AM", status: "Not Started", points: 0 },
+    { id: 86, class: "Computer Programming II", assignment: "Pre-Lecture Recording Week 1", dueDate: "03/31/2025 09:00 AM", status: "Completed", points: 0 },
     { id: 57, class: "Computer Programming II", assignment: "Pre-Lecture Recording Week 2", dueDate: "04/07/2025 09:00 AM", status: "Not Started", points: 0 },
     { id: 58, class: "Computer Programming II", assignment: "Pre-Lecture Recording Week 3", dueDate: "04/14/2025 09:00 AM", status: "Not Started", points: 0 },
     { id: 59, class: "Computer Programming II", assignment: "Pre-Lecture Recording Week 4", dueDate: "04/21/2025 09:00 AM", status: "Not Started", points: 0 },
