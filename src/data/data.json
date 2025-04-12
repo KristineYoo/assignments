@@ -4,7 +4,7 @@
         "class": "Comp & Info Design III",
         "assignment": "Week 1 Homework - Reflection",
         "dueDate": "04/07/2025 11:59 PM",
-        "status": "Completed",
+        "status": "Not Started",
         "points": 10
     },
     {
@@ -461,7 +461,7 @@
     {
         "id": 70,
         "class": "English 103",
-        "assignment": "Final Reflectiion",
+        "assignment": "Final Reflection",
         "dueDate": "06/08/2025 11:59 PM",
         "status": "Not Started",
         "points": 10
@@ -520,6 +520,446 @@
         "class": "Biology",
         "assignment": "Video Lecture: Chapter 34 Part 2",
         "dueDate": "04/15/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 90,
+        "class": "Computer Programming II",
+        "assignment": "CS Lab 1",
+        "dueDate": "04/02/2025 01:00 PM",
+        "status": "Not Started",
+        "points": 100
+    },
+    {
+        "id": 91,
+        "class": "Computer Programming II",
+        "assignment": "CS Lab 2",
+        "dueDate": "04/09/2025 01:00 PM",
+        "status": "Not Started",
+        "points": 100
+    },
+    {
+        "id": 92,
+        "class": "Computer Programming II",
+        "assignment": "CS Lab 3",
+        "dueDate": "04/16/2025 01:00 PM",
+        "status": "Not Started",
+        "points": 100
+    },
+    {
+        "id": 93,
+        "class": "Computer Programming II",
+        "assignment": "CS Lab 4",
+        "dueDate": "04/23/2025 01:00 PM",
+        "status": "Not Started",
+        "points": 100
+    },
+    {
+        "id": 94,
+        "class": "Computer Programming II",
+        "assignment": "CS Lab 5",
+        "dueDate": "04/30/2025 01:00 PM",
+        "status": "Not Started",
+        "points": 100
+    },
+    {
+        "id": 95,
+        "class": "Computer Programming II",
+        "assignment": "CS Lab 6",
+        "dueDate": "05/07/2025 01:00 PM",
+        "status": "Not Started",
+        "points": 100
+    },
+    {
+        "id": 96,
+        "class": "Computer Programming II",
+        "assignment": "CS Lab 7",
+        "dueDate": "05/14/2025 01:00 PM",
+        "status": "Not Started",
+        "points": 100
+    },
+    {
+        "id": 97,
+        "class": "Computer Programming II",
+        "assignment": "CS Lab 8",
+        "dueDate": "05/21/2025 01:00 PM",
+        "status": "Not Started",
+        "points": 100
+    },
+    {
+        "id": 98,
+        "class": "Computer Programming II",
+        "assignment": "CS Lab 9",
+        "dueDate": "05/28/2025 01:00 PM",
+        "status": "Not Started",
+        "points": 100
+    },
+    {
+        "id": 99,
+        "class": "Computer Programming II",
+        "assignment": "CS Lab 10",
+        "dueDate": "06/04/2025 01:00 PM",
+        "status": "Not Started",
+        "points": 100
+    },
+    {
+        "id": 101,
+        "class": "Calculus III",
+        "assignment": "HW 2",
+        "dueDate": "04/16/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 102,
+        "class": "Calculus III",
+        "assignment": "HW 3",
+        "dueDate": "04/23/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 103,
+        "class": "Calculus III",
+        "assignment": "HW 4",
+        "dueDate": "04/30/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 104,
+        "class": "Calculus III",
+        "assignment": "HW 5",
+        "dueDate": "05/07/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 105,
+        "class": "Calculus III",
+        "assignment": "HW 6",
+        "dueDate": "05/14/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 106,
+        "class": "Calculus III",
+        "assignment": "HW 7",
+        "dueDate": "05/21/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 107,
+        "class": "Calculus III",
+        "assignment": "HW 8",
+        "dueDate": "05/28/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 108,
+        "class": "Calculus III",
+        "assignment": "HW 9",
+        "dueDate": "06/04/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 109,
+        "class": "Comp & Info Design III",
+        "assignment": "Activity Report 1",
+        "dueDate": "04/07/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 110,
+        "class": "Comp & Info Design III",
+        "assignment": "Activity Report 2",
+        "dueDate": "04/14/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 111,
+        "class": "Comp & Info Design III",
+        "assignment": "Activity Report 3",
+        "dueDate": "04/21/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 112,
+        "class": "Comp & Info Design III",
+        "assignment": "Activity Report 4",
+        "dueDate": "04/28/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 113,
+        "class": "Comp & Info Design III",
+        "assignment": "Activity Report 5",
+        "dueDate": "05/05/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 114,
+        "class": "Comp & Info Design III",
+        "assignment": "Activity Report 6",
+        "dueDate": "05/12/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 115,
+        "class": "Comp & Info Design III",
+        "assignment": "Activity Report 7",
+        "dueDate": "05/19/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 116,
+        "class": "Comp & Info Design III",
+        "assignment": "Activity Report 8",
+        "dueDate": "05/26/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 117,
+        "class": "Comp & Info Design III",
+        "assignment": "Activity Report 9",
+        "dueDate": "06/02/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 118,
+        "class": "Computer Programming II",
+        "assignment": "Attendance Activity 1",
+        "dueDate": "03/31/2025 11:00 AM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 119,
+        "class": "Computer Programming II",
+        "assignment": "Attendance Activity 2",
+        "dueDate": "04/07/2025 11:00 AM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 120,
+        "class": "Computer Programming II",
+        "assignment": "Attendance Activity 3",
+        "dueDate": "04/14/2025 11:00 AM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 121,
+        "class": "Computer Programming II",
+        "assignment": "Attendance Activity 4",
+        "dueDate": "04/21/2025 11:00 AM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 122,
+        "class": "Computer Programming II",
+        "assignment": "Attendance Activity 5",
+        "dueDate": "04/28/2025 11:00 AM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 123,
+        "class": "Computer Programming II",
+        "assignment": "Attendance Activity 6",
+        "dueDate": "05/05/2025 11:00 AM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 124,
+        "class": "Computer Programming II",
+        "assignment": "Attendance Activity 7",
+        "dueDate": "05/12/2025 11:00 AM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 125,
+        "class": "Computer Programming II",
+        "assignment": "Attendance Activity 8",
+        "dueDate": "05/19/2025 11:00 AM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 126,
+        "class": "Computer Programming II",
+        "assignment": "Attendance Activity 9",
+        "dueDate": "05/26/2025 11:00 AM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 127,
+        "class": "Computer Programming II",
+        "assignment": "Attendance Activity 10",
+        "dueDate": "06/02/2025 11:00 AM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 128,
+        "class": "English 103",
+        "assignment": "Discussion Post 1",
+        "dueDate": "04/05/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 129,
+        "class": "English 103",
+        "assignment": "Discussion Post Response 1",
+        "dueDate": "04/06/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 130,
+        "class": "English 103",
+        "assignment": "Discussion Post 2",
+        "dueDate": "04/12/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 131,
+        "class": "English 103",
+        "assignment": "Discussion Post Response 2",
+        "dueDate": "04/13/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 132,
+        "class": "English 103",
+        "assignment": "Discussion Post 3",
+        "dueDate": "04/19/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 133,
+        "class": "English 103",
+        "assignment": "Discussion Post Response 3",
+        "dueDate": "04/20/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 134,
+        "class": "English 103",
+        "assignment": "Discussion Post 4",
+        "dueDate": "04/26/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 135,
+        "class": "English 103",
+        "assignment": "Discussion Post Response 4",
+        "dueDate": "04/27/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 136,
+        "class": "English 103",
+        "assignment": "Discussion Post 5",
+        "dueDate": "05/03/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 137,
+        "class": "English 103",
+        "assignment": "Discussion Post Response 5",
+        "dueDate": "05/04/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 138,
+        "class": "English 103",
+        "assignment": "Discussion Post 6",
+        "dueDate": "05/10/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 139,
+        "class": "English 103",
+        "assignment": "Discussion Post Response 6",
+        "dueDate": "05/11/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 140,
+        "class": "English 103",
+        "assignment": "Discussion Post 7",
+        "dueDate": "05/17/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 141,
+        "class": "English 103",
+        "assignment": "Discussion Post Response 7",
+        "dueDate": "05/18/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 142,
+        "class": "English 103",
+        "assignment": "Discussion Post 8",
+        "dueDate": "05/24/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 143,
+        "class": "English 103",
+        "assignment": "Discussion Post Response 8",
+        "dueDate": "05/25/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 144,
+        "class": "English 103",
+        "assignment": "Discussion Post 9",
+        "dueDate": "05/31/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 145,
+        "class": "English 103",
+        "assignment": "Discussion Post Response 9",
+        "dueDate": "06/01/2025 11:59 PM",
         "status": "Not Started",
         "points": 10
     }

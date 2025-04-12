@@ -1,38 +1,37 @@
 import homeworkDataJson from './data.json';
 
-
-const originalHomeworkData: HomeworkItem[] = homeworkDataJson as HomeworkItem[];
-
-const loadHomeworkData = (): HomeworkItem[] => {
-    const storedData = localStorage.getItem('homeworkData');
-    return storedData ? JSON.parse(storedData) : originalHomeworkData;
-};
-
-export const homeworkData: HomeworkItem[] = loadHomeworkData();
-
-
-// Assuming you have a function to update the status, like this:
-export const updateHomeworkStatus = (id: number, newStatus: 'Not Started' | 'In Progress' | 'Completed') => {
-    // Find the homework item in the array
-    const itemIndex = homeworkData.findIndex(item => item.id === id);
-
-    if (itemIndex !== -1) {
-        // Update the status of the item in the array
-        homeworkData[itemIndex].status = newStatus;
-
-        // Update localStorage
-        localStorage.setItem('homeworkData', JSON.stringify(homeworkData));
-    } else {
-        console.log(`Homework item with id ${id} not found`);
-    }
-};
-
 export interface HomeworkItem {
     id: number;
     class: string;
     assignment: string;
-    dueDate: string; // Changed to string
+    dueDate: string;
     status: 'Not Started' | 'In Progress' | 'Completed';
     points: number;
-    testsQuizzes?: boolean; // Optional field
+    testsQuizzes?: boolean;
 }
+
+// Initialize homeworkData with the JSON data
+export const homeworkData: HomeworkItem[] = homeworkDataJson as HomeworkItem[];
+
+// Function to update homework status in the JSON file
+export const updateHomeworkStatus = async (id: number, newStatus: 'Not Started' | 'In Progress' | 'Completed') => {
+    const apiUrl = 'http://localhost:3001/updateHomeworkStatus';
+
+    try {
+        const response = await fetch(apiUrl, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ id, newStatus }),
+        });
+
+        if (response.ok) {
+            console.log(`Homework item with id ${id} updated to status ${newStatus}`);
+        } else {
+            console.error(`Failed to update homework status: ${response.status} ${response.statusText}`);
+        }
+    } catch (error) {
+        console.error("There was an error updating the homework status:", error);
+    }
+};
