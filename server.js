@@ -12,6 +12,17 @@ app.use(bodyParser.json());
 
 const dataFilePath = path.join(__dirname, 'src', 'data.json');
 
+// Endpoint to get homework data
+app.get('/getHomeworkData', (req, res) => {
+    fs.readFile(dataFilePath, 'utf8', (err, data) => {
+        if (err) {
+            console.error("Failed to read data.json", err);
+            return res.status(500).send('Failed to read data.json');
+        }
+        res.status(200).json(JSON.parse(data));
+    });
+});
+
 // Endpoint to update homework status
 app.post('/updateHomeworkStatus', (req, res) => {
     const { id, newStatus } = req.body;

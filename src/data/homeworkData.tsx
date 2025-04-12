@@ -11,7 +11,7 @@ export interface HomeworkItem {
 }
 
 // Initialize homeworkData with the JSON data
-export const homeworkData: HomeworkItem[] = homeworkDataJson as HomeworkItem[];
+export let homeworkData: HomeworkItem[] = homeworkDataJson as HomeworkItem[];
 
 // Function to update homework status in the JSON file
 export const updateHomeworkStatus = async (id: number, newStatus: 'Not Started' | 'In Progress' | 'Completed') => {
@@ -28,6 +28,10 @@ export const updateHomeworkStatus = async (id: number, newStatus: 'Not Started' 
 
         if (response.ok) {
             console.log(`Homework item with id ${id} updated to status ${newStatus}`);
+            // Update local homeworkData array
+            homeworkData = homeworkData.map(item =>
+                item.id === id ? { ...item, status: newStatus } : item
+            );
         } else {
             console.error(`Failed to update homework status: ${response.status} ${response.statusText}`);
         }
