@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { HomeworkItem, homeworkData } from '../data/homeworkData';
+import { HomeworkItem, homeworkData, updateHomeworkStatus } from '../data/homeworkData';
 import CompletedTasksGraph from './completedTasksGraph';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 
@@ -18,7 +18,8 @@ const HomeworkTracker: React.FC = () => {
         localStorage.setItem('homeworkData', JSON.stringify(tasks));
     }, [tasks]);
 
-    const handleStatusChange = (id: number, newStatus: HomeworkItem['status']) => {
+    const handleStatusChange = async (id: number, newStatus: HomeworkItem['status']) => {
+        await updateHomeworkStatus(id, newStatus);
         setTasks((prevTasks) =>
             prevTasks.map((task) =>
                 task.id === id ? { ...task, status: newStatus } : task
@@ -27,9 +28,9 @@ const HomeworkTracker: React.FC = () => {
     };
 
     const assignedTasks = tasks.filter((item) => item.status !== 'Completed')
-        .sort((a, b) => new Date(a.dueDate).getTime() - new Date(b.dueDate).getTime()); // Sort by due date
+        .sort((a, b) => new Date(a.dueDate).getTime() - new Date(b.dueDate).getTime());
     const completedTasks = tasks.filter((item) => item.status === 'Completed')
-        .sort((a, b) => new Date(a.dueDate).getTime() - new Date(b.dueDate).getTime()); // Sort by due date
+        .sort((a, b) => new Date(a.dueDate).getTime() - new Date(b.dueDate).getTime());
 
     // Color mapping for classes
     const classColors: { [className: string]: string } = {
