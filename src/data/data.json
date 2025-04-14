@@ -962,5 +962,150 @@
         "dueDate": "06/01/2025 11:59 PM",
         "status": "Not Started",
         "points": 10
+    },
+    {
+        "id": 201,
+        "class": "Biology",
+        "assignment": "Homework Set: Mastering Biology",
+        "dueDate": "04/07/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 202,
+        "class": "Biology",
+        "assignment": "Homework Set: Mastering Biology",
+        "dueDate": "04/14/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 203,
+        "class": "Biology",
+        "assignment": "Homework Set: Mastering Biology",
+        "dueDate": "04/21/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 204,
+        "class": "Biology",
+        "assignment": "Homework Set: Mastering Biology",
+        "dueDate": "04/28/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 205,
+        "class": "Biology",
+        "assignment": "Homework Set: Mastering Biology",
+        "dueDate": "05/05/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 206,
+        "class": "Biology",
+        "assignment": "Homework Set: Mastering Biology",
+        "dueDate": "05/12/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 207,
+        "class": "Biology",
+        "assignment": "Homework Set: Mastering Biology",
+        "dueDate": "05/19/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 208,
+        "class": "Biology",
+        "assignment": "Homework Set: Mastering Biology",
+        "dueDate": "05/26/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 209,
+        "class": "Biology",
+        "assignment": "Homework Set: Mastering Biology",
+        "dueDate": "06/02/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    }, 
+    {
+        "id": 301,
+        "class": "Biology",
+        "assignment": "Quiz 1",
+        "dueDate": "04/07/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 302,
+        "class": "Biology",
+        "assignment": "Quiz 2",
+        "dueDate": "04/14/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 303,
+        "class": "Biology",
+        "assignment": "Quiz 3",
+        "dueDate": "04/21/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 304,
+        "class": "Biology",
+        "assignment": "Quiz 4",
+        "dueDate": "04/28/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 305,
+        "class": "Biology",
+        "assignment": "Quiz 5",
+        "dueDate": "05/05/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 306,
+        "class": "Biology",
+        "assignment": "Quiz 6",
+        "dueDate": "05/12/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 307,
+        "class": "Biology",
+        "assignment": "Quiz 7",
+        "dueDate": "05/19/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 308,
+        "class": "Biology",
+        "assignment": "Quiz 8",
+        "dueDate": "05/26/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 309,
+        "class": "Biology",
+        "assignment": "Quiz 9",
+        "dueDate": "06/02/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
     }
+
 ]
