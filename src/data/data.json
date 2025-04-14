@@ -1106,6 +1106,128 @@
         "dueDate": "06/02/2025 11:59 PM",
         "status": "Not Started",
         "points": 10
+    }, 
+    {
+        "id": 402,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 34 Part 1: Circulatory System",
+        "dueDate": "04/16/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 403,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 34 Part 2: Respiratory System and Gas Exchange",
+        "dueDate": "04/16/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 404,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 35: Innate Immunity",
+        "dueDate": "04/23/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 405,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 35: Acquired Immunity",
+        "dueDate": "04/23/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 407,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 37 Part 1: Nervous System Cells & Organization",
+        "dueDate": "04/30/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 408,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 37 Part 2: Synapses and Signaling",
+        "dueDate": "04/30/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 409,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 38: Sensory Systems",
+        "dueDate": "05/07/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 410,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 39 (part): Movement",
+        "dueDate": "05/07/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 411,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 39 (continued): Behavior",
+        "dueDate": "05/14/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 412,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 36: Reproduction",
+        "dueDate": "05/14/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 413,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 40: Population Ecology",
+        "dueDate": "05/21/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 414,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 41: Ecological Communities",
+        "dueDate": "05/21/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 416,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 41 (continued): Ecological Communities",
+        "dueDate": "05/28/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 417,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 42: Ecosystems and Energy",
+        "dueDate": "05/28/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
+    },
+    {
+        "id": 418,
+        "class": "Biology",
+        "assignment": "Video Lecture: Chapter 43: Biodiversity and Conservation",
+        "dueDate": "06/04/2025 11:59 PM",
+        "status": "Not Started",
+        "points": 10
     }
+ 
+
 
 ]
